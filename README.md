@@ -3,7 +3,7 @@
 <h5>Teste técnico para a posição de Desenvolvedor Backend Iniciante.</h5>
 
 <p>2 -Linguagem de Programação Dart</p>
-Para rodar na sua máquina, você vai precisar ter instalado as seguintes ferramentas: Git e Dart instalados.
+Para rodar na sua máquina, você vai precisar ter instalado as seguintes ferramentas: Git e Dart.
 
 <p>Se não tiver, aqui está dois links para <a href="https://dart.dev/get-dart">Dart</a> e <a href="https://git-scm.com/downloads">Git</a>.</p>
 
